@@ -2,7 +2,7 @@
 
 How does pretraining affect out-of-distribution robustness? We create an OOD benchmark and use it to show that pretrained transformers such as BERT have substantially higher OOD accuracy and OOD detection rates compared to traditional NLP models.
 
-This repository most of the code for the paper [_Pretrained Transformers Improve Out-of-Distribution Robustness_](https://arxiv.org/abs/2004.06100), ACL 2020.
+This repository contains most of the code for the paper [_Pretrained Transformers Improve Out-of-Distribution Robustness_](https://arxiv.org/abs/2004.06100), ACL 2020.
 
 <img align="center" src="sts.png" width="600">
 
